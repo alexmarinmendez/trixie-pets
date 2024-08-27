@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "secrets": {
+  "MONGODB_URI": {
+    "description": "The MongoDB Server"
+  }
+  }
+}
